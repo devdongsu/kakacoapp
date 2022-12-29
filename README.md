@@ -1,2 +1,0 @@
-# kakacoapp
-react study project
